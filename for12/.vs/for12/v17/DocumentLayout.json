@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dzadv\\source\\repos\\for12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{348CDE2C-515F-430D-A840-EE3803B92919}|for12\\for12.vcxproj|C:\\Users\\dzadv\\source\\repos\\for12\\for12\\for12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{348CDE2C-515F-430D-A840-EE3803B92919}|for12\\for12.vcxproj|solutionrelative:for12\\for12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "for12.cpp",
+              "DocumentMoniker": "C:\\Users\\dzadv\\source\\repos\\for12\\for12\\for12.cpp",
+              "RelativeDocumentMoniker": "for12\\for12.cpp",
+              "ToolTip": "C:\\Users\\dzadv\\source\\repos\\for12\\for12\\for12.cpp",
+              "RelativeToolTip": "for12\\for12.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-04T11:55:27.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

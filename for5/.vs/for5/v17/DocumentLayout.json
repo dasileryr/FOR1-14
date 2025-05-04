@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dzadv\\source\\repos\\for5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF0F506-DA68-476A-BCA7-2A17F76E198E}|for5\\for5.vcxproj|C:\\Users\\dzadv\\source\\repos\\for5\\for5\\for5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0FF0F506-DA68-476A-BCA7-2A17F76E198E}|for5\\for5.vcxproj|solutionrelative:for5\\for5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "for5.cpp",
+              "DocumentMoniker": "C:\\Users\\dzadv\\source\\repos\\for5\\for5\\for5.cpp",
+              "RelativeDocumentMoniker": "for5\\for5.cpp",
+              "ToolTip": "C:\\Users\\dzadv\\source\\repos\\for5\\for5\\for5.cpp",
+              "RelativeToolTip": "for5\\for5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-04T11:44:33.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
